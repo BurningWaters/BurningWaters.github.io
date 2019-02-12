@@ -1,97 +1,12 @@
-<!DOCTYPE html>
-<html lang="en-us">
-
-  <head>
-  <link href="http://gmpg.org/xfn/11" rel="profile">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
-
-  <!-- Enable responsiveness on mobile devices-->
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-
-  <title>
-    
-      Burning Waters &middot; A place
-    
-  </title>
-
-  <!-- CSS -->
-  <link rel="stylesheet" href="/public/css/poole.css">
-  <link rel="stylesheet" href="/public/css/syntax.css">
-  <link rel="stylesheet" href="/public/css/hyde.css">
-  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
-  <link rel="stylesheet" href="/public/css/cssbox.css">
-
-  <!-- Icons -->
-  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-144-precomposed.png">
-                                 <link rel="shortcut icon" href="/public/favicon.ico">
-
-  <!-- RSS -->
-  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
-</head>
+---
+layout: post
+title:  "Burning Waters"
+date:   2019-02-12 11:11:11 -0800
+categories: post
+---
 
 
-  <body>
-
-    <div class="sidebar">
-  <div class="container sidebar-sticky">
-    <div class="sidebar-about">
-      <h1>
-        <a href="/">
-          Burning Waters
-        </a>
-      </h1>
-      <p class="lead">A different kind of resort</p>
-    </div>
-
-    <nav class="sidebar-nav">
-      <a class="sidebar-nav-item active" href="/">Home</a>
-
-      
-
-      
-      
-        
-          
-        
-      
-        
-          
-            <a class="sidebar-nav-item" href="/about/">About Us</a>
-          
-        
-      
-        
-      
-        
-          
-        
-      
-        
-      
-        
-      
-
-    </nav>
-
-    <p>&copy; 2019. All rights reserved.</p>
-  </div>
-</div>
-
-
-    <div class="content container">
-      <div class="posts">
-  
-  <div class="post">
-    <h1 class="post-title">
-      <a href="/post/2019/02/12/Burning-Waters/">
-        Burning Waters
-      </a>
-    </h1>
-
-    <span class="post-date">12 Feb 2019</span>
-
-    <div class="cssbox">
+<div class="cssbox">
     <a id="image1" href="#image1"><img class="cssbox_thumb" src="https://lh3.googleusercontent.com/923hY4QKnBwkGgtfWUWovnYRLOBVliFj3tyPWh8NymBKY24EMhoVrIw-DIdMa5T3pWegAhk2hp1VF5ZQswNcin2-PBjDJRIaGy3z-oY6tvvE9mj3Efv6q3nQ7Swv6u2PjjS-R7wkcW_Mh-8dEVKEvrNCAQPVrb3UJVpSZDjA5k531ZuMDbCf6GMJXBZKEd67EqaHBIAaBAUy2MnOi8AIaNlTSx10WgWkblRBJdJwaFIE9JBcDxRIpKRIBDdNBiRnaHWi-8qbGaDA-Y9ngS-8G6M6vQKRT5Cw4tgdl6Ynp_WHOxwE8yWKf8Z5sAOqTG7aJzeHyK661FwcYj2Yx3lcK2C_CabKA95T58NAu4gvAuroQsRTdJid_M_HE6_daGOib1h7YglR2TIaxu8ynl38oFkVlWDDypfDtc5GK4ViBQMCG8pUjLQV5GQfz5u6786NCXpevzgah-MefhrMk7uOExfQ91PP4lRuq9e119YlcxQ-8HBEUDDZ03rnrm-J_ty23Pd4s-LvJWhCUbIwPY7-qcwl7AZK333XWexN_pQET9YjmGupNuaLvvVwxP-uZhzpPAMVDYnQcnyqdObvji4-3Crw4GatsdX3J6BU5ViUwFiZaVUE93fQgj5igIeDjuymJLlBYEfMUSw_QR4WZK3awKcRx8tDq6Oh=w592-h174-no" height="174" width="592" />
         <span class="cssbox_full"><img src="https://lh3.googleusercontent.com/923hY4QKnBwkGgtfWUWovnYRLOBVliFj3tyPWh8NymBKY24EMhoVrIw-DIdMa5T3pWegAhk2hp1VF5ZQswNcin2-PBjDJRIaGy3z-oY6tvvE9mj3Efv6q3nQ7Swv6u2PjjS-R7wkcW_Mh-8dEVKEvrNCAQPVrb3UJVpSZDjA5k531ZuMDbCf6GMJXBZKEd67EqaHBIAaBAUy2MnOi8AIaNlTSx10WgWkblRBJdJwaFIE9JBcDxRIpKRIBDdNBiRnaHWi-8qbGaDA-Y9ngS-8G6M6vQKRT5Cw4tgdl6Ynp_WHOxwE8yWKf8Z5sAOqTG7aJzeHyK661FwcYj2Yx3lcK2C_CabKA95T58NAu4gvAuroQsRTdJid_M_HE6_daGOib1h7YglR2TIaxu8ynl38oFkVlWDDypfDtc5GK4ViBQMCG8pUjLQV5GQfz5u6786NCXpevzgah-MefhrMk7uOExfQ91PP4lRuq9e119YlcxQ-8HBEUDDZ03rnrm-J_ty23Pd4s-LvJWhCUbIwPY7-qcwl7AZK333XWexN_pQET9YjmGupNuaLvvVwxP-uZhzpPAMVDYnQcnyqdObvji4-3Crw4GatsdX3J6BU5ViUwFiZaVUE93fQgj5igIeDjuymJLlBYEfMUSw_QR4WZK3awKcRx8tDq6Oh=w0-h0-no" /></span>
     </a>
@@ -108,6 +23,7 @@
     <a class="cssbox_next" href="#image3">&gt;</a>
 </div>
 
+
 <div class="cssbox">
     <a id="image3" href="#image3"><img class="cssbox_thumb" src="https://lh3.googleusercontent.com/i_7SU7ADIBzTOYhneXJNXY6vMLnqRu5tWzNr5Mqt-gaJV7DzofhuGjusArY8poYksKzUBMBV-jaoY3p1BMK9eh1wmrjnCbfZEgp3fRjEZv9gnPzw68xiDlMC0VHp4isHWRXD74z1LTi7nuHVKUmAkyAfI9WT6xqWxyoDD2jemlwbu3oAeEYmn1AcOHMcejRsTKAA8GlbIN7jXgA4PWEtHRtw1ZDFFZlCquVQt45gOXRlgzSokVmYYVmE_TI4hbaY6oau7MNoxMBQSCkd6ZfcQvJP8tw77Xx_5Ua27oC_9Ix-5mUtPxEhR_azcObC8bD_nAfZWPDYAIc5RsMwLnKg7ldvcrjfh4Oq29MYWrHlpUu0ThJqV_bV6SY22sZCzlK5oFVkSDNx2HETlQ7GQkQz8uW8kQ5zmw-tok3JGPp6D__c5RlSYR3mG0uTx_AI23mKZo3SuwelM7h-Id2IouREIfOFlTaY0Fk89TtLia1TLS8zJVnWdwWqq0T3DFM8w-IZBgDpNaoD9K4XxdX4dijQAlo7s1IJYsEuDuYe1PPoFfkn433f9cY96pC1GMEUqaMF7dxmdtqU6yv-tRzvQeDIbxMnqDr78cQbxZ7v30yqy6VoIpywy7GjJJ4Y-dSFbc4Eu5aRonpqvfCZcP1XA6AaVySBkO5QCoHn=w592-h333-no" />
         <span class="cssbox_full"><img src="https://lh3.googleusercontent.com/i_7SU7ADIBzTOYhneXJNXY6vMLnqRu5tWzNr5Mqt-gaJV7DzofhuGjusArY8poYksKzUBMBV-jaoY3p1BMK9eh1wmrjnCbfZEgp3fRjEZv9gnPzw68xiDlMC0VHp4isHWRXD74z1LTi7nuHVKUmAkyAfI9WT6xqWxyoDD2jemlwbu3oAeEYmn1AcOHMcejRsTKAA8GlbIN7jXgA4PWEtHRtw1ZDFFZlCquVQt45gOXRlgzSokVmYYVmE_TI4hbaY6oau7MNoxMBQSCkd6ZfcQvJP8tw77Xx_5Ua27oC_9Ix-5mUtPxEhR_azcObC8bD_nAfZWPDYAIc5RsMwLnKg7ldvcrjfh4Oq29MYWrHlpUu0ThJqV_bV6SY22sZCzlK5oFVkSDNx2HETlQ7GQkQz8uW8kQ5zmw-tok3JGPp6D__c5RlSYR3mG0uTx_AI23mKZo3SuwelM7h-Id2IouREIfOFlTaY0Fk89TtLia1TLS8zJVnWdwWqq0T3DFM8w-IZBgDpNaoD9K4XxdX4dijQAlo7s1IJYsEuDuYe1PPoFfkn433f9cY96pC1GMEUqaMF7dxmdtqU6yv-tRzvQeDIbxMnqDr78cQbxZ7v30yqy6VoIpywy7GjJJ4Y-dSFbc4Eu5aRonpqvfCZcP1XA6AaVySBkO5QCoHn=w5312-h2988-no" /></span>
@@ -115,33 +31,3 @@
     <a class="cssbox_close" href="#void"></a>
     <a class="cssbox_prev" href="#image2">&lt;</a>
 </div>
-
-  </div>
-  
-  <div class="post">
-    <h1 class="post-title">
-      <a href="/post/2019/02/12/Hello-There/">
-        Welcome to Burning Waters!
-      </a>
-    </h1>
-
-    <span class="post-date">12 Feb 2019</span>
-
-    <p>Well hello there! This is the first ever post on our new website! I put this together with free tools in just a couple of hours and I can show everyone how to make posts, or we can throw the whole thing in the trash. I’m not worried about google finding us and, honestly, I think it is more important to be able to share with the right people than get cached with any emphasis on SEO. plus this is on github and we should get cached anyway! More to come with picatures!</p>
-
-  </div>
-  
-</div>
-
-<div class="pagination">
-  
-    <span class="pagination-item older">Older</span>
-  
-  
-    <span class="pagination-item newer">Newer</span>
-  
-</div>
-    </div>
-
-  </body>
-</html>
