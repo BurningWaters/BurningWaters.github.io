@@ -13,7 +13,7 @@ paginate_path: "page:num"
 title:            'Burning Waters'
 tagline:          'A place'
 description:      'A different kind of resort'
-url:              https://burningwaters.github.io
+url:              https://burningwaters.github.io/
 baseurl:          /
 
 author:
