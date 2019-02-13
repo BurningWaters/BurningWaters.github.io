@@ -1,2 +1,3 @@
 [submodule "jekyll-gallery-generator"]
 	path = jekyll-gallery-generator
+	url = https://github.com/BurningWaters/jekyll-gallery-generator.git
