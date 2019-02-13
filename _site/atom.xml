@@ -4,7 +4,7 @@
  <title>Burning Waters</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2019-02-12T18:08:00-08:00</updated>
+ <updated>2019-02-12T18:15:30-08:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Addison Serendipity</name>
@@ -14,24 +14,17 @@
  
  <entry>
    <title>Welcome to Burning Waters!</title>
-   <link href="http://localhost:4000/post/2019/02/12/Album/"/>
-   <updated>2019-02-12T15:25:11-08:00</updated>
-   <id>http://localhost:4000/post/2019/02/12/Album</id>
+   <link href="http://localhost:4000/post/2019/02/12/Hello-There/"/>
+   <updated>2019-02-12T11:01:11-08:00</updated>
+   <id>http://localhost:4000/post/2019/02/12/Hello-There</id>
    <content type="html">&lt;div class=&quot;cssbox&quot;&gt;
     &lt;a id=&quot;image2&quot; href=&quot;#image2&quot;&gt;&lt;img class=&quot;cssbox_thumb&quot; src=&quot;photos/album/thumbs/20190211_151425.jpg&quot; /&gt;
         &lt;span class=&quot;cssbox_full&quot;&gt;&lt;img src=&quot;photos/album/20190211_151425.jpg&quot; /&gt;&lt;/span&gt;
     &lt;/a&gt;
     &lt;a class=&quot;cssbox_close&quot; href=&quot;#void&quot;&gt;&lt;/a&gt;
 &lt;/div&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Welcome to Burning Waters!</title>
-   <link href="http://localhost:4000/post/2019/02/12/Hello-There/"/>
-   <updated>2019-02-12T11:01:11-08:00</updated>
-   <id>http://localhost:4000/post/2019/02/12/Hello-There</id>
-   <content type="html">&lt;p&gt;Well hello there! This is the first ever post on our new website! I put this together with free tools in just a couple of hours and I can show everyone how to make posts, or we can throw the whole thing in the trash. I’m not worried about google finding us and, honestly, I think it is more important to be able to share with the right people than get cached with any emphasis on SEO. plus this is on github and we should get cached anyway! More to come with picatures!&lt;/p&gt;
+
+&lt;p&gt;Well hello there! This is the first ever post on our new website! I put this together with free tools in just a couple of hours and I can show everyone how to make posts, or we can throw the whole thing in the trash. I’m not worried about google finding us and, honestly, I think it is more important to be able to share with the right people than get cached with any emphasis on SEO. plus this is on github and we should get cached anyway!&lt;/p&gt;
 </content>
  </entry>
  
