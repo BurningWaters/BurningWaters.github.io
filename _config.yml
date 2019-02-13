@@ -5,6 +5,7 @@ highlighter:      pygments
 # Permalinks
 permalink:        pretty
 gems: [jekyll-paginate]
+gems: [jekyll-gallery-generator]
 paginate: 5
 paginate_path: "page:num"
 #relative_permalinks: true
