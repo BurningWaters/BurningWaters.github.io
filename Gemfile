@@ -20,7 +20,7 @@ gem "minima", "~> 2.0"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
-  gem "jekyll-gallery-generator", git: 'https://github.com/BurningWaters/jekyll-gallery-generator.git'
+  gem "jekyll-gallery-generator", git: "https://github.com/BurningWaters/jekyll-gallery-generator.git"
   gem "jekyll-paginator"
 end
 
