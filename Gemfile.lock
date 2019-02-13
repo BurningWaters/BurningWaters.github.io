@@ -1,5 +1,5 @@
 PATH
-  remote: jekyll-gallery-generator
+  remote: _plugins/jekyll-gallery-generator
   specs:
     jekyll-gallery-generator (1.2.1)
       exifr (~> 1.3)

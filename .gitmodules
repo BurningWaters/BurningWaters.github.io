@@ -1,3 +1,6 @@
 [submodule "jekyll-gallery-generator"]
 	path = jekyll-gallery-generator
 	url = https://github.com/BurningWaters/jekyll-gallery-generator.git
+[submodule "_plugins/jekyll-gallery-generator"]
+	path = _plugins/jekyll-gallery-generator
+	url = https://github.com/BurningWaters/jekyll-gallery-generator.git
