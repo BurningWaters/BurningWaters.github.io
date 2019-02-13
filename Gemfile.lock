@@ -1,5 +1,6 @@
-PATH
-  remote: _plugins/jekyll-gallery-generator
+GIT
+  remote: https://github.com/BurningWaters/jekyll-gallery-generator.git
+  revision: 4883c6fb96b53a4b6ffec7b33d423c4fd22ee3fb
   specs:
     jekyll-gallery-generator (1.2.1)
       exifr (~> 1.3)
